@@ -13,3 +13,6 @@ Code Collab Real-time Code Editing:
 Code Collab Compiler Output of a sample Python program:
 
 ![image](https://github.com/user-attachments/assets/815e1e96-34b4-4388-abb9-027cb2356db9)
+
+## Demo Video
+[Watch the demo](https://github.com/user-attachments/assets/4d263787-66d3-4748-b4f8-3a4950562c80)
